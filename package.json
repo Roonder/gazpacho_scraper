@@ -1,0 +1,20 @@
+{
+  "name": "gazpacho-scraper",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Gazpacho Events Scraper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Node.js",
+    "Cheerio.js"
+  ],
+  "author": "roonder",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "puppeteer": "^21.2.1"
+  }
+}
